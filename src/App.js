@@ -2,9 +2,9 @@ import './App.css';
 import Navbar from './components/Navbar';
 import { Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';
-import About from './components/About';
-import Menu from './components/Menu';
-import Contact from './components/Contact';
+import Menu from './pages/Menu';
+import About from './pages/About';
+import Contact from './pages/Contact';
 import Footer from './components/Footer';
 
 function App() {

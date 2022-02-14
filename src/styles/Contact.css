@@ -55,7 +55,7 @@
   input::placeholder,
   textarea::placeholder {
     font-weight: bold;
-    color: black;
+    color: gray;
     font-family: Arial, Helvetica, sans-serif;
   }
   form input:focus,
@@ -65,7 +65,7 @@
   
   form label {
     margin-top: 15px;
-    color: grey;
+    color: black;
   }
   
   form button {
