@@ -13,7 +13,6 @@ function Footer() {
             <FacebookIcon/>
             <LinkedInIcon/>
             <TwitterIcon/>
-            
         </div>
         <p>&copy;2022 abrarfahim21@gmail.com</p>
     </div>

@@ -31,6 +31,10 @@
   text-decoration: none;
   margin: 20px;
 }
+.navbar a:hover{
+  color: #3498db;
+  transition: 0.2s ease-in;
+}
 
 .navbar .rightSide button {
   background-color: transparent;

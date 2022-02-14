@@ -78,3 +78,7 @@
     font-size: 15px;
     cursor: pointer;
   }
+  form button:hover{
+    color: #3498db;
+    transition: 0.3s ease-in;
+  }
